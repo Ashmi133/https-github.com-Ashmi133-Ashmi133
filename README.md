@@ -1,17 +1,13 @@
-# https-github.com-Ashmi133-Ashmi133
-My personal data analyst portfolio
-# Ashmitha P | Data Analyst
-**BE in Electronics and Communication Engineering**
+# HR Analysis Dashboard (Tableau)
 
-I am an entry-level Data Analyst with hands-on experience in SQL, Python, Excel, and Power BI. I enjoy transforming raw data into actionable business insights.
+This project analyzes HR employee data to identify workforce trends such as attrition, salary distribution, and department performance.
 
-### 🛠 Technical Skills
-* **Databases:** MySQL, MongoDB
-* **Languages:** Python (Pandas, NumPy, Matplotlib), R
-* **Tools:** Power BI, Tableau, Advanced Excel
-* **Core Skills:** Data Cleaning, EDA, Statistical Analysis
+Tools Used:
+- Tableau
+- Excel
+- Data Visualization
 
-### 📊 Highlighted Project
-**Retail Supply Chain & Sales Analysis (Power BI)**
-* Developed an interactive dashboard to track total sales, profit margins, and customer orders.
-* Used Power Query for data transformation and DAX for KPI calculations.
+Key Insights:
+- Employee attrition trends
+- Department-wise salary analysis
+- Workforce demographics
